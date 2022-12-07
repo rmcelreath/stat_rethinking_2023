@@ -7,7 +7,7 @@ Instructor: Richard McElreath
 
 Lectures: Uploaded and pre-recorded, two per week
 
-Discussion: Online, Fridays 3pm-4pm Central European (Berlin) Time
+Discussion: Online (Zoom), Fridays 3pm-4pm Central European (Berlin) Time
 
 # Purpose
 
@@ -17,9 +17,9 @@ This course teaches data analysis, but it focuses on scientific models. The unfo
 
 Online, flipped instruction. I will pre-record the lectures each week. We'll meet online once a week for an hour to discuss the material. The discussion time (3-4pm Berlin Time) should allow people in the Americas to join in their morning.
 
-We'll use the 2nd edition of my book, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>. I'll provide a PDF of the book to enrolled students.
+We'll use the 2nd edition of my book, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>, and possibly some draft chapters for the 3rd edition. I'll provide a PDF of the book to enrolled students.
 
-Registration: Please sign up via <[EventBright]()>. There are 60 slots for course credit. I've set aside 100 audit tickets at the link, for people who want to participate, but who don't need course credit.
+Registration: Please sign up via <[EventBright](https://www.eventbrite.co.uk/e/statistical-rethinking-course-2023-tickets-477975426367)>. There are 80 slots for course credit. I've set aside 120 audit tickets at the link, for people who want to participate, but who don't need course credit.
 
 # Calendar & Topical Outline
 
