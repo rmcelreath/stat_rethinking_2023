@@ -19,7 +19,7 @@ Online, flipped instruction. I will pre-record the lectures each week. We'll mee
 
 We'll use the 2nd edition of my book, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>, and possibly some draft chapters for the 3rd edition. I'll provide a PDF of the book to enrolled students.
 
-Registration: Please sign up via <[EventBright](https://www.eventbrite.co.uk/e/statistical-rethinking-course-2023-tickets-477975426367)>. There are 80 slots for course credit. I've set aside 120 audit tickets at the link, for people who want to participate, but who don't need course credit.
+Registration: Closed.
 
 # Calendar & Topical Outline
 
