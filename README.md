@@ -27,6 +27,8 @@ There are 10 weeks of instruction. Links to lecture recordings will appear in th
 
 Full lecture playlist: <[Statistical Rethinking 2023 Playlist](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)>
 
+Note about slides: In some browsers, the slides don't show correctly. If points are missing from plots, download the slides PDF instead of viewing in browser.
+
 | Week ## | Meeting date | Reading | Lectures |
 | ------- | -------------- | ------------- | ---------------------- |
 | Week 01 | 06 January  | Chapters 1, 2 and 3 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> <br> [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)>
