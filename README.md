@@ -34,11 +34,11 @@ Note about slides: In some browsers, the slides don't show correctly. If points 
 | Week 01 | 06 January  | Chapters 1, 2 and 3 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> <br> [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)>
 | Week 02 | 13 January | Chapter 4 | [3] <[Geocentric Models](https://www.youtube.com/watch?v=tNOu-SEacNU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=3)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-03)> <br> [4] <[Categories and Curves](https://www.youtube.com/watch?v=F0N4b7K_iYQ&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=4)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-04)>
 | Week 03 | 20 January | Chapters 5 and 6 |  [5] <[Elemental Confounds](https://www.youtube.com/watch?v=mBEA7PKDmiY&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=5)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-05)> <br> [6] <[Good and Bad Controls](https://www.youtube.com/watch?v=uanZZLlzKHw&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=6)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-06)>
-| Week 04 | 27 January | Chapters 7 and 8 | [7] Overfitting <br> [8] Interactions
-| Week 05 | 03 February | Chapters 9, 10 and 11 | [9] Markov chain Monte Carlo <br> [10] Binomial GLMs
-| Week 06 | 10 February | Chapters 11 and 12 | [11] Poisson GLMs <br> [12] Ordered Categories
-| Week 07 | 17 February | Chapter 13 | [13] Multilevel Models <br> [14] Multi-Multilevel Models
-| Week 08 | 24 February | Chapter 14 | [15] Varying Slopes <br> [16] Gaussian Processes
+| Week 04 | 27 January | Chapters 7 and 8 | [7] Overfitting <br> [8] MCMC
+| Week 05 | 03 February | Chapters 9, 10 and 11 | [9] Binomial GLMs <br> [10] Poisson GLMs
+| Week 06 | 10 February | Chapters 11 and 12 | [11] Ordered Categories <br> [12] Multilevel Models
+| Week 07 | 17 February | Chapter 13 | [13] Multi-Multilevel Models <br> [14] More Multilevel Models
+| Week 08 | 24 February | Chapter 14 | [15] Social networks <br> [16] Gaussian Processes
 | Week 09 | 03 March | Chapter 15 | [17] Measurement Error <br> [18] Missing Data
 | Week 10 | 10 March | Chapters 16 and 17 | [19] Beyond GLMs: State-space Models, ODEs <br> [20] Horoscopes
 
