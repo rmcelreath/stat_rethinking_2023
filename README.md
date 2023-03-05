@@ -55,9 +55,9 @@ For those who want to use the original R code examples in the print book, you ne
 
 The <[Tidyverse/brms](https://bookdown.org/content/4857/)> conversion is very high quality and complete through Chapter 14.
 
-## Python and PyMC3
+## Python and PyMC
 
-The <[Python/PyMC3](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)> conversion is quite complete.
+The <[Python/PyMC](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)> conversion is quite complete.
 
 ## Julia and Turing
 
