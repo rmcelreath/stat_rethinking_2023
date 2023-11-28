@@ -3,6 +3,8 @@
 Statistical Rethinking (2023 Edition)
 ===============
 
+For the 2024 version of the course see: <https://github.com/rmcelreath/stat_rethinking_2024>
+
 Instructor: Richard McElreath
 
 Lectures: Uploaded and pre-recorded, two per week
